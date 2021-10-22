@@ -1,1 +1,5 @@
-# Digital-IC-Design__Image-Processing-Filter
+# Digital-IC-Design Image-Processing-Filter
+
+NTUEE Digital IC Design 2021 Spring 
+
+Final Project
